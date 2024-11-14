@@ -1,0 +1,2 @@
+router.push('/dashboard');
+
